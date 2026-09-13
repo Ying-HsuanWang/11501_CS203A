@@ -1,4 +1,5 @@
 # 11501_CS203A
+資料結構
 
 ## Course information
 This course aims to illustrate the use of probabilistic models and statistical methodology that is employed in countless applications in all areas of science and engineering.
@@ -7,4 +8,4 @@ This course aims to illustrate the use of probabilistic models and statistical m
 s1121537 王盈萱
 
 ### Repository information
-This is for class203A's assignment only. Contains with its own description student's personal informations.
+This is for class203A's assignment only. Contains with its own description student's personal information.
