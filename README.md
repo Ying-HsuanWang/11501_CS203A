@@ -12,4 +12,4 @@
 s1121537 王盈萱
 
 ### Repository information
-This is for class203A's assignment only. Contains with its own description student's personal information.
+This is for class203A's assignment only. Contains with its own description and student's personal information.
